@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "sheriff"
+name = "sheriff-limiter"
 dynamic = ["version"]
 description = "An elegant, thread-safe, in-memory rate limiter for Python"
 readme = "README.md"
